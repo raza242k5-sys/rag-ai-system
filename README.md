@@ -179,6 +179,11 @@ Results show that the RAG architecture successfully improves answer reliability 
 
 ## 👨‍💻 Author
 
-**Raza Rahman**  
-Retrieval-Augmented Generation AI System  
-2026
+**Raza Ur Rahman**  
+
+Computer Engineering Student
+
+AI Developer
+
+🔗 GitHub: https://github.com/raza242k5-sys
+🔗 LinkedIn: https://linkedin.com/in/razarahman242k5
